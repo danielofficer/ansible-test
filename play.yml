@@ -1,0 +1,8 @@
+---
+- name: Build a basic LAMP system
+  hosts: all
+  become: true
+  roles:
+    - dan.lamp
+
+

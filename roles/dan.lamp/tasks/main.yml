@@ -1,0 +1,8 @@
+---
+# tasks file for dan.lamp
+- name: Install net-tools.  ffs ubuntu
+  apt:
+    pkg:
+      - net-tools
+      - moreutils
+      - silversearcher-ag

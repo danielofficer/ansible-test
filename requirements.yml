@@ -1,0 +1,6 @@
+- name: geerlingguy.apache
+  version: 1.1.0
+- name: geerlingguy.php
+- name: geerlingguy.apache-php-fpm
+- name: geerlingguy.mysql
+- name: geerlingguy.php-mysql
